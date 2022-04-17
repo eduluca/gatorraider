@@ -3,6 +3,7 @@ package game;
 import java.io.PrintWriter;
 
 import edu.ufl.cise.cs1.controllers.AttackerHumanController;
+import edu.ufl.cise.cs1.controllers.StudentAttackerController;
 import game.models.Game;
 import game.system.*;
 import game.view.*;
@@ -10,7 +11,6 @@ import game.view.*;
 import game.controllers.*;
 import game.controllers.example.*;
 import game.controllers.benchmark.*;
-import edu.ufl.cise.cs1.controllers.StudentAttackerController;
 
 /*
  * This class may be used to execute the game in timed or un-timed modes, with or without
